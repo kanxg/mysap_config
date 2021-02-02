@@ -1,4 +1,4 @@
-var proxy = "DIRECT ; PROXY proxy.sha.sap.corp:8080";
+var proxy = "PROXY proxy.sha.sap.corp:8080";
 
 
 
